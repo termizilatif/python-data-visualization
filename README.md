@@ -51,7 +51,7 @@ python-data-visualization/
 ## Getting Started
 
 ```bash
-git clone https://github.com/<termizilatif>/python-data-visualization.git
+git clone https://github.com/termizilatif/python-data-visualization.git
 cd python-data-visualization
 pip install -r requirements.txt
 
